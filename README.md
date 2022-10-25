@@ -1,12 +1,5 @@
-팀.22 프로젝트 Repository 
 
-<br>
-<div>요구사항 명세서: https://docs.google.com/spreadsheets/d/1rgGFkdOszaaKD-_4fSFO6unIKImuL7JJI026zKLDUzs/edit#gid=0</div>
-</br>
-
-<br>
-<div> 화면 정의서 Figma : https://www.figma.com/file/bvIhMw5R8BKpM43CRT9aOW/%ED%99%94%EB%A9%B4%EC%A0%95%EC%9D%98%EC%84%9C-220823?node-id=0%3A1 </div>
-</br>
+### 메인 프로젝트 전 협업과 코드작성을 연습하기 위한 클론코딩
 
 ### ▶️역할
 
@@ -56,5 +49,9 @@
 
 ![image](https://user-images.githubusercontent.com/86710265/197729775-5789b6e7-402b-4231-aa4a-91db7a002cb3.png)
 ![image](https://user-images.githubusercontent.com/86710265/197729834-1f193e19-376e-4b9e-b7f7-4836684465ad.png)
+
+<br>
+<div> 화면 정의서 Figma : https://www.figma.com/file/bvIhMw5R8BKpM43CRT9aOW/%ED%99%94%EB%A9%B4%EC%A0%95%EC%9D%98%EC%84%9C-220823?node-id=0%3A1 </div>
+</br>
 
 
